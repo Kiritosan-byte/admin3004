@@ -1,4 +1,4 @@
-# University
+# OOP about University with 2 enity are student and employee
 OOP Java about university using inheritance, ArrayList and method include add, search and show 
 
 ### Description of project:
